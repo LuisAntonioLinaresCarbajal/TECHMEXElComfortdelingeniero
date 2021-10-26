@@ -188,6 +188,15 @@ body{
     font-weight: 300;
     color:#0f0f0f;
 }
+.about__paragraph2{
+    text-align: justify;
+    margin: 20px 0;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 1.5;
+    font-size: 1.2rem;
+    font-weight: 300;
+    color:#ffffff;
+}
 
 .about__picture{
     text-align: center;

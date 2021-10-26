@@ -154,8 +154,9 @@ body{
     
     text-align: justify;
     line-height: 1.5;
-    font-style: normal;
-    color: #000000;
+    font-size: 1.2rem;
+    font-family: 'Times New Roman', Times, serif;
+    color: #0f0f0f;
 }
 
 .instructor__img{
@@ -181,9 +182,11 @@ body{
 .about__paragraph{
     text-align: justify;
     margin: 20px 0;
+    font-family: 'Times New Roman', Times, serif;
     line-height: 1.5;
+    font-size: 1.2rem;
     font-weight: 300;
-    color: #000;
+    color:#0f0f0f;
 }
 
 .about__picture{
@@ -247,9 +250,12 @@ body{
 }
 
 .card__paragraph{
-    font-weight: 300;
+    text-align: justify;
+    font-size: 1.05em;
+    font-weight: 400;
     margin-bottom: 20px;
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(24, 22, 22);
     line-height: 1.5;
     text-indent: unset;
 }
@@ -275,7 +281,7 @@ body{
 .course{
     --color-title: #fff;
     --color-btn: #fff;
-    --text-btn: #6544f7;
+    --text-btn: #6544f7f8;
     color: var(--color-title);
     display: grid;
     grid-template-columns: repeat(5, 1fr);

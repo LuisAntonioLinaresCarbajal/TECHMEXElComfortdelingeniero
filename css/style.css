@@ -151,10 +151,11 @@ body{
 }
 
 .instructor__paragraph{
-    text-align: left;
+    
+    text-align: justify;
     line-height: 1.5;
     font-style: normal;
-    color: #161515;
+    color: #000000;
 }
 
 .instructor__img{
@@ -178,9 +179,11 @@ body{
 }
 
 .about__paragraph{
+    text-align: justify;
     margin: 20px 0;
     line-height: 1.5;
     font-weight: 300;
+    color: #000;
 }
 
 .about__picture{
